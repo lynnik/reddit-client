@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="match_constraint">0dp</dimen>
+
+    <dimen name="main_item_user_image_size">48dp</dimen>
+    <dimen name="main_item_margin">16dp</dimen>
+    <dimen name="main_item_margin_small">8dp</dimen>
+</resources>
